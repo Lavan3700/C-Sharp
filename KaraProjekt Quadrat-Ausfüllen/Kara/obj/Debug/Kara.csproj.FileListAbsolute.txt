@@ -1,0 +1,11 @@
+C:\Daten\Kara\Kara\bin\Debug\Kara.exe.config
+C:\Daten\Kara\Kara\bin\Debug\Kara.exe
+C:\Daten\Kara\Kara\bin\Debug\Kara.pdb
+C:\Daten\Kara\Kara\obj\Debug\Kara.csprojResolveAssemblyReference.cache
+C:\Daten\Kara\Kara\obj\Debug\Kara.Form1.resources
+C:\Daten\Kara\Kara\obj\Debug\Kara.KaraWorld.resources
+C:\Daten\Kara\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\Kara\Kara\obj\Debug\Kara.csproj.GenerateResource.Cache
+C:\Daten\Kara\Kara\obj\Debug\Kara.exe
+C:\Daten\Kara\Kara\obj\Debug\Kara.pdb
+C:\Daten\Kara\Kara\obj\Debug\Kara.Zelle.resources

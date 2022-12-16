@@ -1,0 +1,141 @@
+C:\Daten\Kara\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\Kara\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.Cache
+C:\Daten\Kara\Kara\obj\Debug\Kara.exe
+C:\Daten\Kara\Kara\obj\Debug\Kara.pdb
+C:\Daten\Kara\Kara\bin\Debug\Kara.exe.config
+C:\Daten\Kara\Kara\bin\Debug\Kara.exe
+C:\Daten\Kara\Kara\bin\Debug\Kara.pdb
+C:\Daten\Kara\Kara\obj\Debug\KaraProjekt.csprojResolveAssemblyReference.cache
+C:\Daten\Kara\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Daten\Kara\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Daten\Kara\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Daten\Kara2\Kara\bin\Debug\Kara.exe.config
+C:\Daten\Kara2\Kara\obj\Debug\Kara.exe
+C:\Daten\Kara2\Kara\obj\Debug\Kara.pdb
+C:\Daten\Kara2\Kara\bin\Debug\Kara.exe
+C:\Daten\Kara2\Kara\bin\Debug\Kara.pdb
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.csprojResolveAssemblyReference.cache
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Daten\Kara2\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.Cache
+C:\Daten\Kara2\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\bin\Debug\Kara.exe.config
+C:\Daten\M403\karaVersionen\Kara2\Kara\bin\Debug\Kara.exe
+C:\Daten\M403\karaVersionen\Kara2\Kara\bin\Debug\Kara.pdb
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.csprojResolveAssemblyReference.cache
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.Cache
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\Kara.exe
+C:\Daten\M403\karaVersionen\Kara2\Kara\obj\Debug\Kara.pdb
+C:\Daten\M403\KaraAktuell\Kara\bin\Debug\Kara.exe.config
+C:\Daten\M403\KaraAktuell\Kara\bin\Debug\Kara.exe
+C:\Daten\M403\KaraAktuell\Kara\bin\Debug\Kara.pdb
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.csprojResolveAssemblyReference.cache
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.Cache
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\Kara.exe
+C:\Daten\M403\KaraAktuell\Kara\obj\Debug\Kara.pdb
+C:\Daten\M403\KaraProjekt\Kara\bin\Debug\Kara.exe.config
+C:\Daten\M403\KaraProjekt\Kara\bin\Debug\Kara.exe
+C:\Daten\M403\KaraProjekt\Kara\bin\Debug\Kara.pdb
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.csprojResolveAssemblyReference.cache
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.Cache
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\Kara.exe
+C:\Daten\M403\KaraProjekt\Kara\obj\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\bin\Debug\Kara.exe.config
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\bin\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\bin\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1\Kara\obj\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\bin\Debug\Kara.exe.config
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\bin\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\bin\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\bin\Debug\Kara.exe.config
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\bin\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\bin\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\Kara.exe
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\Kara.pdb
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\KaraProjekt_V1.1 - M319 - Kopie\Kara\obj\Debug\KaraProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.exe.config
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.pdb
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.AssemblyReference.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.pdb
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.exe.config
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\bin\Debug\Kara.pdb
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.AssemblyReference.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Kara\Kara\obj\Debug\Kara.pdb
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\bin\Debug\Kara.exe.config
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\bin\Debug\Kara.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\bin\Debug\Kara.pdb
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.csproj.AssemblyReference.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.cKara.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.Form1.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.KaraWorld.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\Kara.Properties.Resources.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.Zelle.resources
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.csproj.GenerateResource.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\KaraProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\Kara.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\privat\Engler\319\Data\M319\KaraProjekte Arbeitsblatt 3\Kara\obj\Debug\Kara.pdb
